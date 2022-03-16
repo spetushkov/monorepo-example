@@ -1,0 +1,7 @@
+{
+  "name": "@ibm/root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
