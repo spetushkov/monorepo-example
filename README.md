@@ -1,1 +1,5 @@
-https://www.youtube.com/watch?v=zQUpNa1hZIA
+- https://www.youtube.com/watch?v=zQUpNa1hZIA
+- https://codefresh.io/howtos/lerna-monorepo/
+- https://medium.com/@dandobusiness/setting-up-typescript-in-a-mono-repo-cd49a38d6030
+- https://blog.logrocket.com/setting-up-monorepo-with-lerna-typescript/
+- https://blog.ah.technology/a-guide-through-the-wild-wild-west-of-setting-up-a-mono-repo-with-typescript-lerna-and-yarn-ed6a1e5467a
