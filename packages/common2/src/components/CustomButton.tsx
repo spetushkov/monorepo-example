@@ -4,8 +4,8 @@ type Props = {
     textColor: string;
 };
 
-const Button: FC<Props> = (props) => {
+const CustomButton: FC<Props> = (props) => {
     return <button style={{ 'color': props.textColor }}>{props.children}</button>
 };
 
-export default Button;
+export default CustomButton;

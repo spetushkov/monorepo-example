@@ -2,5 +2,5 @@ import { FC } from "react";
 declare type Props = {
     textColor: string;
 };
-declare const Button: FC<Props>;
-export default Button;
+declare const CustomButton: FC<Props>;
+export default CustomButton;
